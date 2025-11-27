@@ -1,0 +1,20 @@
+{
+    "siteTitle": "Forengers Documentation",
+    "siteDescription": "Documentation about the repo behind forengers.in and how it works",
+    "author": "Forengers",
+    "faviconUrl": "/assets/myfavicon.png",
+    "blogTitle": "Documentation",
+    "blogDescription": "Here is the description of the documentation part",
+    "productionUrl": "https://eleventy-libdoc.netlify.app",
+    "customLinks": [
+        {
+            "url": "https://forengers.in/",
+            "text": "Website"
+        },
+        {
+            "url": "https://github.com/forengers-website/forengers.in/",
+            "text": "GitHub"
+        }
+    ],
+    "editThisPageRootUrl": ""
+}
