@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "pnpm exec eleventy --serve",
-    "build": "pnpm exec eleventy",
-    "build-ghpages": "pnpm dlx @11ty/eleventy --pathprefix=/forengers-docs/"
+    "build": "pnpm exec eleventy"
   },
   "keywords": [],
   "author": "",

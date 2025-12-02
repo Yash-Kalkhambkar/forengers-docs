@@ -1,3 +1,6 @@
+# Deployment 
+    Use `git config --local user.email forengers.help@gmail.com` for deployment.
+
 # Eleventy LibDoc
 
 [Eleventy LibDoc website](https://eleventy-libdoc.netlify.app/) | [11ty website](11ty)
