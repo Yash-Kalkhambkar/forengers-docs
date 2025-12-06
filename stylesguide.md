@@ -162,4 +162,5 @@ Avoid writing custom CSS unless necessary—use Tailwind utilities.
 ### ✅ Maintain semantic usage  
 Use dark green for primary brand elements, light green for actions/accents.
 
+---
 
