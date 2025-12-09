@@ -27,35 +27,6 @@ To ensure error-free and consistent deployments across contributors, we require 
 
 ---
 
-## How Our Vercel Builds Work
-
-When you push code:
-
-1. Vercel detects the new commit  
-2. Installs dependencies  
-3. Runs the production build (`npm run build`)  
-4. Deploys to Preview or Production depending on the branch  
-
-During this process, Vercel reads **Git commit metadata**, including:
-
-- Commit author  
-- Commit email  
-- Commit hash  
-
-This metadata is necessary for:
-
-- Accurate build attribution  
-- Debugging deployment logs  
-- Linking commits to deployments  
-
-If the commit email is missing or inconsistent, Vercel may show:
-
-- Missing or incorrect build attribution  
-- Failed preview deployments  
-- Metadata or caching issues  
-
----
-
 ## Why We Use a Local Git Email
 
 To avoid inconsistencies and ensure Vercel recognizes commits correctly, our repo uses a shared local Git email:
