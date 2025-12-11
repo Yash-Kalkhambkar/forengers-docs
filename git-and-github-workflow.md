@@ -8,7 +8,7 @@ tags:
     - github
     - workflow
     - developer-onboarding
-tocEnabled: true
+tocEnabled: false
 date: false
 eleventyNavigation:
     key: Git & GitHub (workflow)
